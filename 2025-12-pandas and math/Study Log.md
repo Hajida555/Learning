@@ -291,3 +291,11 @@
   - .gt(0)等价>0 
   - 了解了四分位数法IQR IQR = Q3 - Q1 异常值下限：Q1 - 1.5 × IQR 异常值上限：Q3 + 1.5 × IQR
   - 文件名不可是数字开头的 保存文件要指定为具体名
+## 1-7
+1. mit 复习所学
+  - 复习为主 
+  - N(CD)=N(D) if C是可逆的
+2. 实践项目
+  - 了解tushare 老牌财经接口包
+  - warings python的警告处理库
+  - warning.filterwarning('ignore) 会忽略警告 不是报错
